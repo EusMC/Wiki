@@ -2,7 +2,19 @@
 
 **所有魔法的合成表均可[在此查看](http://magic.elmakers.com/#wands)**
 
-## 基础物品
+## 魔法物品
 
 这是所有魔法的基础-法杖。由一个下界之星和一个烈焰棒组成。
-[![法杖](https://z3.ax1x.com/2021/07/18/W8coZ9.png)](https://imgtu.com/i/W8coZ9)
+<figure style="text-align: center">
+    <img style="width: 500px" draggable="false" src="https://z3.ax1x.com/2021/07/18/W8coZ9.png">
+</figure>
+
+## 技能
+
+### 使用技能
+
+左键法杖，你的背包会切换到一个魔法背包（需要先安装材质才能看见魔法图标），里面包含你所学习过的魔法。按键盘数字键1-9或者鼠标点击技能图标都可以切换技能。
+右键法杖使用技能
+
+### 学习技能
+使用法杖右击附魔台，就会出现技能学习界面，学习一个新技能需要一定的消耗SP。SP可以通过使用魔法来获取。
