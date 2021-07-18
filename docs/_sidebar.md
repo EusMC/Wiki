@@ -1,0 +1,14 @@
+* [主页](/)
+- 快速上手 
+    - [基础知识](getting-started/basics.md)
+    - [管理组](about/operators.md)
+- [社区规定](rules.md)
+- [常见问题](faq.md)
+- 内容详解
+    - [神秘岛主题地图](content-explanation/island.md)
+    - [混乱合成](content-explanation/random_recipe.md)
+    - [魔法](content-explanation/magic.md)
+    - [派系](content-explanation/factions.md)
+- 其他
+    - [常用指令](others/commands.md)
+- [贡献者](contributor.md)
