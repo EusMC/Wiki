@@ -36,7 +36,7 @@
 |/sit|坐下|/sit|
 |/spawn|返回出生点|/spawn|
 |/tpa <玩家名>|请求传送到指定玩家的位置|/tpa Steve|
-|tpaccept|接受传送请求|/tpaccept|
-|tpdeny|拒绝传送请求|/tpdeny|
+|/tpaccept|接受传送请求|/tpaccept|
+|/tpdeny|拒绝传送请求|/tpdeny|
 |/tpahere <玩家名>|请求玩家传送到你的位置|/tpahere Steve|
 |/treegravity 或 /tg|一键砍树插件 (具体看帮助)|/tg help|
