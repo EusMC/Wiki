@@ -8,13 +8,13 @@
 
 |指令|含义|举例|
 |:-:|:-:|:-:|
-|/afk|切换挂机状态（没啥用）|/afk|
+|/afk|切换挂机状态 (没啥用)|/afk|
 |/back|回到上一位置|/back|
-|/balance, /bal, /money [玩家名]|查看某个玩家的资金（留空默认自己）|/balance notch|
+|/balance, /bal, /money [玩家名]|查看某个玩家的资金 (留空默认自己)|/balance notch|
 |/baltop, /balancetop [页码]|查看资金排行榜|/balancetop 1|
 |/bloodmoon [指令]|血月插件相关信息|/bloodmoon show|
 |/co i|*启用/关闭* 方块查询|/co i|
-|/cshop [指令]|快捷商店（具体看帮助）|/cshop help|
+|/cshop [指令]|快捷商店 (具体看帮助)|/cshop help|
 |/delhome <名字>|删除家|/delhome home|
 |/direction|获取方向|/direction|
 |/getpos|显示你的详细坐标|/getpos|
